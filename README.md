@@ -1,2 +1,5 @@
-# csd-380
-This repository is for my 2025 csd-380 class
+# CSD 380 DevOps
+
+## Contributors
+- Instructor: Nathan Braun
+- Colton Kohler
